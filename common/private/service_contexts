@@ -6,3 +6,6 @@ lineagetrust                              u:object_r:lineage_trust_service:s0
 profile                                   u:object_r:lineage_profile_service:s0
 
 adbroot_service                           u:object_r:adbroot_service:s0
+
+# Game space
+game_space                                u:object_r:game_space_service:s0
